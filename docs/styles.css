@@ -233,7 +233,7 @@ button { cursor: pointer; }
 .day {
   border: 0;
   border-radius: 16px;
-  min-height: 76px;
+  min-height: 60px;
   padding: 8px 0 7px;
   display: flex;
   flex-direction: column;
